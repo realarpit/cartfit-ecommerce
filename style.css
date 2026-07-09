@@ -23,8 +23,10 @@ section{
     width:130px;
 }
 .logo{
-    background-image: url(https://pngimg.com/uploads/amazon/amazon_PNG25.png);
-    background-size: cover;
+    background-image: url("cartfit.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
     height:50px;
     width:100%;
 }
@@ -41,12 +43,13 @@ section{
 
 
 .nav-search{
-    background-color:#f8a33d;
+    background-color:#499A13;
     width:620px;
     height:40px;
     display:flex;
     align-items:center;
     border-radius:5px;
+    border:2px solid transparent;
 }
 .nav-search:hover{
     border:2px solid orange;
@@ -136,7 +139,7 @@ section{
 }
 
 .hero-section{
-    background-image: url("61Z5DaOEVeL._SX3000_.jpg");
+    background-image: url("hero-banner.jpg");
     background-size:cover;
     height:330px;
     width:100%;
@@ -237,11 +240,13 @@ ul p{
     justify-content: center;
     align-items:center;
 }
-.amz-logo{
-    background-image: url(https://pngimg.com/uploads/amazon/amazon_PNG25.png);
-    background-size: cover;
-    height:30px;
-    width:76px;
+.cf-logo{
+    background-image: url("cartfit.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height:50px;
+    width:120px;
 }
 
 .navFooter{
