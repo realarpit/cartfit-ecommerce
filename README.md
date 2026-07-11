@@ -70,11 +70,9 @@ This project was built to practice:
 * UI/UX design fundamentals
 * Frontend project organization
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-Add screenshots of:
-
-
+![cartfit homepage Screenshot](./cf_homepage.png)
 
 ## 🔮 Future Enhancements
 
